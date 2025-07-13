@@ -1,5 +1,5 @@
 # 5PM_Python-Crash_Course_23th_June
-# PythonTeachingVolunteers
+## PythonTeachingVolunteers
 
  **What You'll Find Here:**
 
@@ -11,7 +11,7 @@
 
 **Join Our Community:** Join our community on [iCodeGuru](www.icode.guru/join) to connect with fellow learners and volunteer mentors.
 
-# Trainers & Moderators
+## Trainers & Moderators
 
 <table >
     <tbody>
