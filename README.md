@@ -31,7 +31,7 @@
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/shaistaDev7">
+                <a href="https://github.com/Meharzain2010">
                     <img src="https://avatars.githubusercontent.com/u/96947240?v=4" width="100px;" alt=""/>
                     <br />
                     <sub><b>Zia Ur Rehman</b></sub>
