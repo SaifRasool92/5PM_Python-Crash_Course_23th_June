@@ -24,8 +24,8 @@
                 </a> 
             </td>
           <td align="center">
-                <a href="https://github.com/aamna-ansari">
-                    <img src="https://avatars.githubusercontent.com/u/123650396?v=4" width="100px;" alt="AaMna AnSari"/>
+                <a href="https://github.com/MUHAMMAD-AZEEM-AZAM">
+                    <img src="https://avatars.githubusercontent.com/u/120501480?v=4" width="100px;" alt="AaMna AnSari"/>
                     <br />
                     <sub><b>Muhammad Azeem</b></sub>
                 </a> 
@@ -54,40 +54,52 @@
      <tr>
       <th>Days</th>
       <th>Video Links (Facebook)</br></th>
-      <th>Materials</th>
+      <th>Helping Materials</th>
      <th>Topics</th>
    <td align="center"><b>Trainer Name</b></td>
      </tr>  
         <tr>
-    <td align="center"><b>Day 01</b></br>10-Jun-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/992841545965466">Introduction to Python</br></td>
-    <td align="center" ><a href="https://drive.google.com/file/d/1kWPpQ_brVAlMaRzp2H_iX9bFg773FCJS/view?usp=sharing">Slides</td>
+    <td align="center"><b>Day 01</b></br>23-Jun-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/19JACLy2WH/">Introduction to Python</br></td>
+    <td align="center" ><a href="https://docs.google.com/presentation/d/1xaOiN0uh_nrcy2RzyNBjrgFbjxhodogu2RWvIhZA7EY/edit?usp=sharing">Slides</td>
         <td align="center">Introduction to Python <br/> History of python<br/>Features & Applications of python<br/>IDE for Python</td>
-      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr>
            <tr>
-    <td align="center"><b>Day 02</b></br>11-Jun-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1180336409788797">Variables</td>
-    <td align="center"><a href="https://colab.research.google.com/drive/1rvfeJk2amjWDewSQkq2WrpqXLhyxTWci#scrollTo=5n368lC2ltWU">Practice File</td>
+    <td align="center"><b>Day 02</b></br>24-Jun-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1AhSpJbSmj/">Download of VS and Python</td>
+    <td align="center">
+  <a href="https://colab.research.google.com/drive/1GEbALgFEIjf6NBW-b6-oc4ajanXuy194?usp=sharing">link</a>
+</td>
         <td align="center">Print Function<br/> Variables<br/>Rules to assign variables name<br/>Type of Variable Cases <br/>id () Function</td>
-      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
-  </tr>
-    <tr>
-    <td align="center" colspan="5">No Class</td>   
-  </tr>
-        <tr>
-    <td align="center"><b>Day 03</b></br>13-Jun-2024</td>
-    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1191962478649652">Data Types</td>
-    <td align="center"><a href="https://colab.research.google.com/drive/1it4fZ__D5O8aez4NGMbuAUTo9Er4JOvV#scrollTo=Uip_PSoY6_sV">Practice File</td>
+      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
+  <tr>
+    <td align="center"><b>Day 03</b></br>25-Jun-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1ZXD4qdxgu/">Variables + String</td>
+   <td align="center">
+  <a href="https://colab.research.google.com/drive/1aPHvFxBCuDlqhmPfwQi_o67FZih9ZRCj?usp=sharing">link</a>
+ 
+</td>
         <td align="center">Comments<br/>Data Type<br/> type() function<br/>input() function<br/>Type Casting</td>
-      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+      <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem Azam</td>
   </tr>
         <tr>
-    <td align="center"><b>Day 04</b></br>14-Jun-2024</td>
-    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1904145980007933">Operators</td>
-    <td align="center"><a href="https://colab.research.google.com/drive/1EharaVyXHCSfj_x1jH0PQzqkcO77qfUu#scrollTo=EDeTuaCEXj8O">Practice File</td>
+    <td align="center"><b>Day 03</b></br>26-Jun-2025</td>
+    <td align="center"><a href="https://fb.watch/At1VMZOlpF/">String</td>
+    <td align="center"><a href="https://colab.research.google.com/drive/1BxQGe6Fh-n6-r_XBPvKKHWecnmwnmqwt?usp=sharing">link</td>
+        <td align="center">Comments<br/>Data Type<br/> type() function<br/>input() function<br/>Type Casting</td>
+      <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem Azam</td>
+  </tr>
+        <tr>
+    <td align="center"><b>Day 04</b></br>27-Jun-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/195fQkm732/">numbers + comments + lists</td>
+    <td align="center">
+  <a href="https://colab.research.google.com/drive/1r_W7HsZJWQSbOg--JJQDSCR8P0J-Eqh3?usp=sharing">link</a> -
+  <a href="https://colab.research.google.com/drive/1sdgFTlrxVIBasQkcqLpXBvSG5FNZ96BE?usp=sharing">link</a> -
+  <a href="https://colab.research.google.com/drive/1QYRLmDP8BO8eg441O85cV7cFQUNz8gI4?usp=sharing">link</a>
+</td>
         <td align="center">Arithmetic Operators<br/>Assignment Operators<br/>Comparison Operators<br/>Logical Operators<br/>Membership Operators<br/>Identity Operators</td>
-      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr>
 </tbody>
 <table>
