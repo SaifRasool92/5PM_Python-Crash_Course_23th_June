@@ -32,7 +32,7 @@
             </td>
             <td align="center">
                 <a href="https://github.com/Meharzain2010">
-                    <img src="https://avatars.githubusercontent.com/u/96947240?v=4" width="100px;" alt="Zia Ur Rehman"/>
+                    <img src="https://avatars.githubusercontent.com/u/194600882?s=400" width="100px;" alt="Zia Ur Rehman"/>
                     <br />
                     <sub><b>Zia Ur Rehman</b></sub>
                 </a> 
