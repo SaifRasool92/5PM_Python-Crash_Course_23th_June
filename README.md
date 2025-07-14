@@ -52,53 +52,58 @@
 <table>
     <tbody>
      <tr>
-      <th>Days</th>
+      <th colspan="2">Days</th>
       <th>Video Links (Facebook)</br></th>
-      <th>Helping Materials</th>
+      <th>Colab Notebook</th>
      <th>Topics</th>
    <td align="center"><b>Trainer Name</b></td>
      </tr>  
         <tr>
-    <td align="center"><b>Day 01</b></br>23-Jun-2025</td>
-    <td align="center"><a href="https://www.facebook.com/share/v/19JACLy2WH/">Introduction to Python</br></td>
+             <td align="center"><b>01</td>
+    <td align="center"><b>Monday</b></br>23-Jun-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/19JACLy2WH/">link</br></td>
     <td align="center" ><a href="https://docs.google.com/presentation/d/1xaOiN0uh_nrcy2RzyNBjrgFbjxhodogu2RWvIhZA7EY/edit?usp=sharing">Slides</td>
-        <td align="center">Introduction to Python <br/> History of python<br/>Features & Applications of python<br/>IDE for Python</td>
+        <td align="center">Introduction to Python</td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr>
            <tr>
-    <td align="center"><b>Day 02</b></br>24-Jun-2025</td>
-    <td align="center"><a href="https://www.facebook.com/share/v/1AhSpJbSmj/">Download of VS and Python</td>
+                <td align="center"><b>02</td>
+    <td align="center"><b>Tuesday</b></br>24-Jun-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1AhSpJbSmj/">link</td>
     <td align="center">
   <a href="https://colab.research.google.com/drive/1GEbALgFEIjf6NBW-b6-oc4ajanXuy194?usp=sharing">link</a>
 </td>
-        <td align="center">Print Function<br/> Variables<br/>Rules to assign variables name<br/>Type of Variable Cases <br/>id () Function</td>
+        <td align="center">Download of VS and Python</td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   <tr>
-    <td align="center"><b>Day 03</b></br>25-Jun-2025</td>
-    <td align="center"><a href="https://www.facebook.com/share/v/1ZXD4qdxgu/">Variables + String</td>
+       <td align="center"><b>03</td>
+    <td align="center"><b>Wednesday</b></br>25-Jun-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1ZXD4qdxgu/">link</td>
    <td align="center">
   <a href="https://colab.research.google.com/drive/1aPHvFxBCuDlqhmPfwQi_o67FZih9ZRCj?usp=sharing">link</a>
  
 </td>
-        <td align="center">Comments<br/>Data Type<br/> type() function<br/>input() function<br/>Type Casting</td>
+        <td align="center">Variables + String</td>
       <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem Azam</td>
   </tr>
         <tr>
-    <td align="center"><b>Day 03</b></br>26-Jun-2025</td>
-    <td align="center"><a href="https://fb.watch/At1VMZOlpF/">String</td>
+             <td align="center"><b>04</td>
+    <td align="center"><b>Thursday</b></br>26-Jun-2025</td>
+    <td align="center"><a href="https://fb.watch/At1VMZOlpF/">link</td>
     <td align="center"><a href="https://colab.research.google.com/drive/1BxQGe6Fh-n6-r_XBPvKKHWecnmwnmqwt?usp=sharing">link</td>
-        <td align="center">Comments<br/>Data Type<br/> type() function<br/>input() function<br/>Type Casting</td>
+        <td align="center">String</td>
       <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem Azam</td>
   </tr>
         <tr>
-    <td align="center"><b>Day 04</b></br>27-Jun-2025</td>
-    <td align="center"><a href="https://www.facebook.com/share/v/195fQkm732/">numbers + comments + lists</td>
+             <td align="center"><b>05</td>
+    <td align="center"><b>Friday</b></br>27-Jun-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/195fQkm732/">link</td>
     <td align="center">
   <a href="https://colab.research.google.com/drive/1r_W7HsZJWQSbOg--JJQDSCR8P0J-Eqh3?usp=sharing">link</a> -
   <a href="https://colab.research.google.com/drive/1sdgFTlrxVIBasQkcqLpXBvSG5FNZ96BE?usp=sharing">link</a> -
   <a href="https://colab.research.google.com/drive/1QYRLmDP8BO8eg441O85cV7cFQUNz8gI4?usp=sharing">link</a>
 </td>
-        <td align="center">Arithmetic Operators<br/>Assignment Operators<br/>Comparison Operators<br/>Logical Operators<br/>Membership Operators<br/>Identity Operators</td>
+        <td align="center">numbers + comments + lists</td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr>
 </tbody>
@@ -110,50 +115,57 @@
      <tr>
       <th colspan="2">Days</th>
       <th>Video Links (Facebook)</br></th>
-      <th>Materials</th>
+      <th>Colab Notebook</th>
      <th>Topics</th>
    <td align="center"><b>Trainer Name</b></td>
      </tr>  
         <tr>
     <td align="center"><b>01</td>
-    <td align="center"><b>Monday</b></br>24-Jun-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/3746007639001916">Operators</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1sYsmVgj-7xGFcvp8jy7JMQ_WUE7TzICr#scrollTo=9_-5hnwYpvy1">Practice File</td>
-        <td align="center">Identity Operators</br> Bitwise Operators</td>
-      <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
+    <td align="center"><b>Monday</b></br>30-Jun-2025</td>
+    <td align="center" ><a href="https://www.facebook.com/share/v/16WTDZk7EA/">link</td>
+            <td align="center">
+  <a href="https://colab.research.google.com/drive/1yJdC4KYQ-sMkaHxImlbCHaaT_Thm6OCH?usp=sharing">link</a> -
+  <a href="https://colab.research.google.com/drive/1GKiTJMaEVnaJW6vgVLVeb0AekxPICOk8?usp=sharing">link</a> -
+  <a href="https://colab.research.google.com/drive/11mJWwq8PgvBwlZJtsSbmYaho5Zc1bFBc?usp=sharing">link</a>
+        <td align="center">Modyfying, Add... + Organizing list + Errors</td>
+      <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem Azam</td>
   </tr>
           <tr>
     <td align="center"><b>02</td>
-    <td align="center"><b>Tuesday</b></br>25-Jun-2024</td>
-    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/463943756337336">Flow Controls</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1TKi2c2ulI_zjVaU3UN4LuBTbMc0bSPly#scrollTo=wR9aiHsHmCy6">Practice File</td>
-        <td align="center">if Statements</br>else Statements</br>elif Statements</td>
-      <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
+    <td align="center"><b>Tuesday</b></br>1-Jul-2025</td>
+    <td align="center" ><a href="https://www.facebook.com/share/v/16V2pP5cdX/">link</td>
+            <td align="center">
+  <a href="https://colab.research.google.com/drive/1ZBK-yiduN8pf2b_2RxEKkCETdXl4Pc3Q?usp=sharing">link</a> -
+  <a href="https://colab.research.google.com/drive/1jHw0lZlDtVkmuQe_f-DDiYNUykH4xdBR?usp=sharing">link</a> -
+  <a href="https://colab.research.google.com/drive/1LEBavDQ26STWi7MEdPa3ddvTbzp-p0oq?usp=sharing">link</a>
+        <td align="center">loop + Errors + Numerical List</td>
+      <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem Azam</td>
   </tr>
   <tr>
     <td align="center"><b>03</td>
-    <td align="center"><b>Wednesday</b></br>26-Jun-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/808486358019371">While Loop</td>
-    <td align="center"><a href="https://colab.research.google.com/drive/1pRtHejz4ygRo7LuqrEIsmD8LnQXiTOA-#scrollTo=-ZAn08vQ_R_Q">Practice File</td>
-    <td align="center">While Loop</br>break</br>continue</td>
-    <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
+    <td align="center"><b>Wednesday</b></br>2-Jul-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1Byu34QYGo/">link</td>
+         <td align="center">
+  <a href="https://colab.research.google.com/drive/11H6iHK0SRIozTC_uKC88lcV-unQOMC4_?usp=drive_link">link</a> -
+  <a href="https://colab.research.google.com/drive/1kHY9fcfp6vYFPhbiuM-mWU1BCuUBr4He?usp=drive_link">link</a> -
+  <a href="https://colab.research.google.com/drive/1sAnYYBmmoY7dzGwm3fTwsTOdsJkQuqVk?usp=drive_link">link</a> -
+  <a href="https://colab.research.google.com/drive/137cwOEcE5UhxJ0BmIEte8R8NfrvwPHMI?usp=drive_link">link</a>
+    <td align="center">Slicing + Tuples + Styling + conditional</td>
+    <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr>
     <tr>
     <td align="center"><b>04</td>
-    <td align="center"><b>Thursday</b></br>27-Jun-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/2187675348263338">For Loop</td>
-    <td align="center"><a href="https://colab.research.google.com/drive/1PdUXsXVjpgQGTuUxfupPMZswxTqx650y#scrollTo=zB7Ta5KKm9j5">Practice File</td>
-    <td align="center">For loop</br>range()</br>random</td>
-    <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
+    <td align="center"><b>Thursday</b></br>3-Jul-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/19JPkvGrBz/">link</td>
+        <td align="center">
+  <a href="https://colab.research.google.com/drive/1UX4C4DZm3PH5pzXial1junlK2ea9j4gK?usp=drive_link">link</a>
+    <td align="center">if statements</td>
+    <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr>
-    <tr>
-    <td align="center"><b>05</td>
-    <td align="center"><b>Friday</b></br>28-Jun-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1208568973647659">Problem statement</td>
-    <td align="center"><a href="https://colab.research.google.com/drive/1AogN_T-ZtyOj0LydGK7VJTt9ex1-a3NG#scrollTo=bCSIQ_11xZb8&uniqifier=1">Practice File</td>
-    <td align="center">Problem statement solve</br>choice()</td>
-    <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
-  </tr>
+ <tr>
+  <td align="center" colspan="6"><b>HOLIDAY</b></td>
+</tr>
+
 </tbody>
 <table>
 
@@ -164,49 +176,54 @@
      <tr>
       <th colspan="2">Days</th>
       <th>Video Links (Facebook)</br></th>
-      <th>Materials</th>
+      <th>Colab Notebook</th>
      <th>Topics</th>
    <td align="center"><b>Trainer Name</b></td>
      </tr>  
         <tr>
     <td align="center"><b>01</td>
-    <td align="center"><b>Monday</b></br>01-July-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/768362501862751/">Review Assignments</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1io4e9z03p5C78PXPrrEFjl6qYZUiEoqM#scrollTo=N1c5nSv7jciI">Practice File</td>
-        <td align="center">Review Assignments</td>
-      <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
+    <td align="center"><b>Monday</b></br>07-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/196Rjtftdv/">link</td>
+             <td align="center">
+  <a href="https://colab.research.google.com/drive/11GCPz69mc-0qJDZSHUSYS6Ji923virSG?usp=sharing">link</a>
+        <td align="center">sets()</td>
+      <td align="center"><a href="https://www.linkedin.com/in/aroob-mushtaq-32191b2b8/">Aroob Mushtaq</td>
   </tr>
   <tr>
     <td align="center"><b>02</td>
-    <td align="center"><b>Tuesday</b></br>02-July-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1775807086161979">String</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1L8wd-2qXWDQupM4D8FvSSaOF7LA0V5tQ?usp=sharing">Practice File</td>
-        <td align="center">Strings </br>Multiline string</br>String Concatenation</br>Escape Sequences</br>Accessing Characters by Index</br>Slicing Python Strings</br>Reversing a String</td>
-      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+    <td align="center"><b>Tuesday</b></br>08-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1Ahe6kTxAs/">link</td>
+             <td align="center">
+  <a href="https://colab.research.google.com/drive/1r37tg_TAB-L837DNNjcrEnm5NB2ystUC?usp=sharing">link</a>
+        <td align="center">Using if statements with list</td>
+      <td align="center"><a href="https://www.linkedin.com/in/zia-ur-rehman63/">Zia Ur Rehman</td>
   </tr>
     <tr>
     <td align="center"><b>03</td>
-    <td align="center"><b>Wednesday</b></br>03-July-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/461826480131512">String Methods</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1L8wd-2qXWDQupM4D8FvSSaOF7LA0V5tQ?usp=sharing">Practice File</td>
-        <td align="center">Skipping Characters While Slicing</br>String formatting(f-String)</br>String Methods</td>
-      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+    <td align="center"><b>Wednesday</b></br>09-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1EQ6DqQcM2/">link</td>
+             <td align="center">
+  <a href="https://colab.research.google.com/drive/1dZB4Oy6HLHeSV8fQ3pLtGkILQNAClvlw?usp=sharing">link</a>
+        <td align="center">Working with Dictionaries</td>
+      <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem</td>
   </tr>
   <tr>
     <td align="center"><b>04</td>
-    <td align="center"><b>Tuesday</b></br>04-July-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/877275894228680">String Methods & Practice</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1L8wd-2qXWDQupM4D8FvSSaOF7LA0V5tQ?usp=sharing">Practice File</td>
-        <td align="center">String Methods & Solve Example</td>
-      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+    <td align="center"><b>Thursday</b></br>10-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/19An66cMYA/">link</td>
+             <td align="center">
+  <a href="https://colab.research.google.com/drive/1iP4Ap4MGocrfG9hrEJcMlZ4V3Ry8vNhN?usp=drive_link">link</a> 
+        <td align="center">Looping through Dictionaries</td>
+      <td align="center"><a href="https://www.linkedin.com/in/zia-ur-rehman63/">Zia Ur Rehman</td>
   </tr>
   <tr>
     <td align="center"><b>05</td>
-    <td align="center"><b>Wednesday</b></br>05-July-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/3649196008729358">Lists</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1yt37lcoqeWrdy1cUcbIMNhvqGhnUYWQQ#scrollTo=C-ErTCQOHVYQ">Practice File</td>
-        <td align="center">List </br> Create a List</br> List Length</br>Accessing List Items</br>Slicing Items</br>Membership Operators in List</br>Modifying Lists</td>
-      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+    <td align="center"><b>Friday</b></br>11-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1Nv4ofey1K/">link</td>
+             <td align="center">
+  <a href="https://colab.research.google.com/drive/1MaTX8IbJpmab28r3bnzCJnbIWA4TzAQh?usp=drive_link">link</a>
+        <td align="center">Nesting</td>
+      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr>   
 </tbody>
 <table>
