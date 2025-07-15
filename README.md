@@ -189,7 +189,7 @@
     <td align="center"><a href="https://www.facebook.com/share/v/196Rjtftdv/">link</td>
              <td align="center">
   <a href="https://colab.research.google.com/drive/11GCPz69mc-0qJDZSHUSYS6Ji923virSG?usp=sharing">link</a>
-        <td align="center">sets()</td>
+        <td align="center"><code>set()</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/aroob-mushtaq-32191b2b8/">Aroob Mushtaq</td>
   </tr>
   <tr>
@@ -246,7 +246,7 @@
     <td align="center"><b>Monday</b></br>14-July-2025</td>
     <td align="center"><a href="https://www.facebook.com/share/v/1YhMudXHoo/">link</td>
     <td align="center" ><a href="https://colab.research.google.com/drive/10owrFVS5117xG7PoYVFqoaHcD79p6Uxo?usp=drive_link"> link</td>
-        <td align="center">How the input() Function Works</td>
+        <td align="center">How the <code>input()</code> Function Works</td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr> 
      <!--<tr>
