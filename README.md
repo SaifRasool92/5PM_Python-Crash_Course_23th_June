@@ -6,13 +6,13 @@
 
  **What You'll Find Here:**
 
-**Slides:** Presentation slides designed for use in teaching Python sessions.
+**Slides:** Presentation slides designed for use in teaching <code>Python</code> sessions.
 
-**Tutorials:** Links to video tutorials covering various Python topics and concepts.
+**Tutorials:** Links to video tutorials covering various <code>Python</code> topics and concepts.
 
 **Comprehensive Materials:** Get access to all the materials you need, including assignments, class practice exercises, **[Course Outline](https://docs.google.com/document/d/1C14SaQ1mW_KqTC4C_K64R27BrMwt_l7b66oMWoKEEmM/edit?usp=sharing)** and **[Course Excel Sheet](https://docs.google.com/spreadsheets/d/1Mv2Wjwr-LaH55ky8pvd0A3S5Q7YOmKL46itzfusSKsI/edit?usp=sharing)**.
 
-**Join Our Community:** Join our community on [iCodeGuru](www.icode.guru/join) to connect with fellow learners and volunteer mentors.
+**Join Our Community:** Join our community on **[iCodeGuru](www.icode.guru/join)** to connect with fellow learners and volunteer mentors.
 
 <div align="center">
 
@@ -66,7 +66,7 @@
     <td align="center"><b>Monday</b></br>23-Jun-2025</td>
     <td align="center"><a href="https://www.facebook.com/share/v/19JACLy2WH/">link</br></td>
     <td align="center" ><a href="https://docs.google.com/presentation/d/1xaOiN0uh_nrcy2RzyNBjrgFbjxhodogu2RWvIhZA7EY/edit?usp=sharing">Slides</td>
-        <td align="center">Introduction to Python</td>
+        <td align="center"><code>Introduction to Python</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr>
            <tr>
@@ -76,7 +76,7 @@
     <td align="center">
   <a href="https://colab.research.google.com/drive/1GEbALgFEIjf6NBW-b6-oc4ajanXuy194?usp=sharing">link</a>
 </td>
-        <td align="center">Download of VS and Python</td>
+        <td align="center"><code>Download of VS and Python</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   <tr>
        <td align="center"><b>03</td>
@@ -86,7 +86,7 @@
   <a href="https://colab.research.google.com/drive/1aPHvFxBCuDlqhmPfwQi_o67FZih9ZRCj?usp=sharing">link</a>
  
 </td>
-        <td align="center">Variables + String</td>
+        <td align="center"><code>Variables + String</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem Azam</td>
   </tr>
         <tr>
@@ -94,7 +94,7 @@
     <td align="center"><b>Thursday</b></br>26-Jun-2025</td>
     <td align="center"><a href="https://fb.watch/At1VMZOlpF/">link</td>
     <td align="center"><a href="https://colab.research.google.com/drive/1BxQGe6Fh-n6-r_XBPvKKHWecnmwnmqwt?usp=sharing">link</td>
-        <td align="center">String</td>
+        <td align="center"><code>String</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem Azam</td>
   </tr>
         <tr>
@@ -106,7 +106,7 @@
   <a href="https://colab.research.google.com/drive/1sdgFTlrxVIBasQkcqLpXBvSG5FNZ96BE?usp=sharing">link</a> -
   <a href="https://colab.research.google.com/drive/1QYRLmDP8BO8eg441O85cV7cFQUNz8gI4?usp=sharing">link</a>
 </td>
-        <td align="center">numbers + comments + lists</td>
+        <td align="center"><code>numbers + comments + lists</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr>
 </tbody>
@@ -130,7 +130,7 @@
   <a href="https://colab.research.google.com/drive/1yJdC4KYQ-sMkaHxImlbCHaaT_Thm6OCH?usp=sharing">link</a> -
   <a href="https://colab.research.google.com/drive/1GKiTJMaEVnaJW6vgVLVeb0AekxPICOk8?usp=sharing">link</a> -
   <a href="https://colab.research.google.com/drive/11mJWwq8PgvBwlZJtsSbmYaho5Zc1bFBc?usp=sharing">link</a>
-        <td align="center">Modyfying, Add... + Organizing list + Errors</td>
+        <td align="center"><code>Modyfying, Add... + Organizing list + Errors</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem Azam</td>
   </tr>
           <tr>
@@ -141,7 +141,7 @@
   <a href="https://colab.research.google.com/drive/1ZBK-yiduN8pf2b_2RxEKkCETdXl4Pc3Q?usp=sharing">link</a> -
   <a href="https://colab.research.google.com/drive/1jHw0lZlDtVkmuQe_f-DDiYNUykH4xdBR?usp=sharing">link</a> -
   <a href="https://colab.research.google.com/drive/1LEBavDQ26STWi7MEdPa3ddvTbzp-p0oq?usp=sharing">link</a>
-        <td align="center">loop + Errors + Numerical List</td>
+        <td align="center"><code>loop + Errors + Numerical List</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem Azam</td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@
   <a href="https://colab.research.google.com/drive/1kHY9fcfp6vYFPhbiuM-mWU1BCuUBr4He?usp=drive_link">link</a> -
   <a href="https://colab.research.google.com/drive/1sAnYYBmmoY7dzGwm3fTwsTOdsJkQuqVk?usp=drive_link">link</a> -
   <a href="https://colab.research.google.com/drive/137cwOEcE5UhxJ0BmIEte8R8NfrvwPHMI?usp=drive_link">link</a>
-    <td align="center">Slicing + Tuples + Styling + conditional</td>
+    <td align="center"><code>Slicing + Tuples + Styling + conditional</code></td>
     <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr>
     <tr>
@@ -162,7 +162,7 @@
     <td align="center"><a href="https://www.facebook.com/share/v/19JPkvGrBz/">link</td>
         <td align="center">
   <a href="https://colab.research.google.com/drive/1UX4C4DZm3PH5pzXial1junlK2ea9j4gK?usp=drive_link">link</a>
-    <td align="center">if statements</td>
+    <td align="center"><code>if statements</code></td>
     <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr>
  <tr>
@@ -198,7 +198,7 @@
     <td align="center"><a href="https://www.facebook.com/share/v/1Ahe6kTxAs/">link</td>
              <td align="center">
   <a href="https://colab.research.google.com/drive/1r37tg_TAB-L837DNNjcrEnm5NB2ystUC?usp=sharing">link</a>
-        <td align="center">Using if statements with list</td>
+        <td align="center"><code>Using if statements with list</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/zia-ur-rehman63/">Zia Ur Rehman</td>
   </tr>
     <tr>
@@ -207,7 +207,7 @@
     <td align="center"><a href="https://www.facebook.com/share/v/1EQ6DqQcM2/">link</td>
              <td align="center">
   <a href="https://colab.research.google.com/drive/1dZB4Oy6HLHeSV8fQ3pLtGkILQNAClvlw?usp=sharing">link</a>
-        <td align="center">Working with Dictionaries</td>
+        <td align="center"><code>Working with Dictionaries</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem</td>
   </tr>
   <tr>
@@ -216,7 +216,7 @@
     <td align="center"><a href="https://www.facebook.com/share/v/19An66cMYA/">link</td>
              <td align="center">
   <a href="https://colab.research.google.com/drive/1iP4Ap4MGocrfG9hrEJcMlZ4V3Ry8vNhN?usp=drive_link">link</a> 
-        <td align="center">Looping through Dictionaries</td>
+        <td align="center"><code>Looping through Dictionaries</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/zia-ur-rehman63/">Zia Ur Rehman</td>
   </tr>
   <tr>
@@ -225,7 +225,7 @@
     <td align="center"><a href="https://www.facebook.com/share/v/1Nv4ofey1K/">link</td>
              <td align="center">
   <a href="https://colab.research.google.com/drive/1MaTX8IbJpmab28r3bnzCJnbIWA4TzAQh?usp=drive_link">link</a>
-        <td align="center">Nesting</td>
+        <td align="center"><code>Nesting</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr>   
 </tbody>
@@ -246,7 +246,7 @@
     <td align="center"><b>Monday</b></br>14-July-2025</td>
     <td align="center"><a href="https://www.facebook.com/share/v/1YhMudXHoo/">link</td>
     <td align="center" ><a href="https://colab.research.google.com/drive/10owrFVS5117xG7PoYVFqoaHcD79p6Uxo?usp=drive_link"> link</td>
-        <td align="center">How the <code>input()</code> Function Works</td>
+        <td align="center"><code>How the input() Function Works</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr> 
      <!--<tr>
