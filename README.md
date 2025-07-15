@@ -7,46 +7,45 @@
 
 **Tutorials:** Links to video tutorials covering various Python topics and concepts.
 
-**Comprehensive Materials:** Get access to all the materials you need, including assignments, class practice exercises, and more.
+**Comprehensive Materials:** Get access to all the materials you need, including assignments, class practice exercises, and more **[here](https://docs.google.com/spreadsheets/d/1Mv2Wjwr-LaH55ky8pvd0A3S5Q7YOmKL46itzfusSKsI/edit?usp=sharing)**.
 
 **Join Our Community:** Join our community on [iCodeGuru](www.icode.guru/join) to connect with fellow learners and volunteer mentors.
 
-## Trainers & Moderators
+<div align="center">
 
-<table >
-    <tbody>
-        <tr>
-            <td align="center">
-                <a href="https://github.com/SaifRasool92">
-                    <img src="https://avatars.githubusercontent.com/u/170190067?v=4" width="100px;" alt="Fatima Arshad"/>
-                    <br />
-                    <sub><b>Saif Ur Rasool</b></sub>
-                </a> 
-            </td>
-          <td align="center">
-                <a href="https://github.com/MUHAMMAD-AZEEM-AZAM">
-                    <img src="https://avatars.githubusercontent.com/u/120501480?v=4" width="100px;" alt="AaMna AnSari"/>
-                    <br />
-                    <sub><b>Muhammad Azeem</b></sub>
-                </a> 
-            </td>
-            <td align="center">
-                <a href="https://github.com/Meharzain2010">
-                    <img src="https://avatars.githubusercontent.com/u/194600882?s=400" width="100px;" alt="Zia Ur Rehman"/>
-                    <br />
-                    <sub><b>Zia Ur Rehman</b></sub>
-                </a> 
-            </td>
-            <td align="center">
-                <a href="https://github.com/abdullahxyz85">
-                    <img src="https://avatars.githubusercontent.com/u/181183976?v=4" width="100px;" alt="Muhammad Haris Ahsan"/>
-                    <br />
-                    <sub><b>Abdullah Jameel</b></sub>
-                </a> 
-            </td>
-        </tr> 
-</tbody>
-<table>
+  <h2>Trainers &amp; Moderators</h2>
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/SaifRasool92">
+          <img src="https://avatars.githubusercontent.com/u/170190067?v=4" width="100" alt="Saif Ur Rasool"/><br>
+          <sub><b>Saif Ur Rasool</b></sub>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MUHAMMAD-AZEEM-AZAM">
+          <img src="https://avatars.githubusercontent.com/u/120501480?v=4" width="100" alt="Muhammad Azeem"/><br>
+          <sub><b>Muhammad Azeem</b></sub>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Meharzain2010">
+          <img src="https://avatars.githubusercontent.com/u/194600882?s=400" width="100" alt="Zia Ur Rehman"/><br>
+          <sub><b>Zia Ur Rehman</b></sub>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/abdullahxyz85">
+          <img src="https://avatars.githubusercontent.com/u/181183976?v=4" width="100" alt="Abdullah Jameel"/><br>
+          <sub><b>Abdullah Jameel</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 # Week 01
 <table>
@@ -54,7 +53,7 @@
      <tr>
       <th colspan="2">Days</th>
       <th>Video Links (Facebook)</br></th>
-      <th>Colab Notebook</th>
+      <th>Colab Notebooks</th>
      <th>Topics</th>
    <td align="center"><b>Trainer Name</b></td>
      </tr>  
@@ -115,7 +114,7 @@
      <tr>
       <th colspan="2">Days</th>
       <th>Video Links (Facebook)</br></th>
-      <th>Colab Notebook</th>
+      <th>Colab Notebooks</th>
      <th>Topics</th>
    <td align="center"><b>Trainer Name</b></td>
      </tr>  
@@ -176,7 +175,7 @@
      <tr>
       <th colspan="2">Days</th>
       <th>Video Links (Facebook)</br></th>
-      <th>Colab Notebook</th>
+      <th>Colab Notebooks</th>
      <th>Topics</th>
    <td align="center"><b>Trainer Name</b></td>
      </tr>  
