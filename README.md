@@ -1,5 +1,5 @@
 <div align= 'center'>
-<h1> 5PM Python Crash Course 23th June 2025 </h1>
+<h1> 5PM Python Crash Course, 23<sup>th</sup> June 2025 </h1>
 </div>
 
 ## PythonTeachingVolunteers
@@ -249,15 +249,15 @@
         <td align="center"><code>How the input() Function Works</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr> 
-     <!--<tr>
+     <tr>
     <td align="center"><b>02</td>
-    <td align="center"><b>Tuesday</b></br>09-July-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/364525473051638">Lists</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1yt37lcoqeWrdy1cUcbIMNhvqGhnUYWQQ#scrollTo=C-ErTCQOHVYQ">Practice File</td>
-        <td align="center">Sort(),Sorted()</br>Nested List</td>
-      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+    <td align="center"><b>Tuesday</b></br>15-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/19j53kxrk7/">link</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1QaRhG974lFh-_gsn1Vo0hFuiG0RICs1i?usp=sharing">link</td>
+        <td align="center"><code>Fizz Buzz</code></td>
+      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr> 
-    <tr>
+    <!--<tr>
     <td align="center" colspan="6">No Class</td>   
   </tr>
  <tr>
