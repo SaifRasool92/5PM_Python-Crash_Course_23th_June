@@ -234,19 +234,19 @@
      <tr>
       <th colspan="2">Days</th>
       <th>Video Links (Facebook)</br></th>
-      <th>Materials</th>
+      <th>Colab Notebooks</th>
      <th>Topics</th>
    <td align="center"><b>Trainer Name</b></td>
      </tr>  
   <tr>
     <td align="center"><b>01</td>
-    <td align="center"><b>Monday</b></br>08-July-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1660046778092108">Lists</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1yt37lcoqeWrdy1cUcbIMNhvqGhnUYWQQ#scrollTo=C-ErTCQOHVYQ"> Practice File</td>
-        <td align="center">Add List Items</br>Remove List Items</br>Copying a List</br>Join List</br>Counting Items in a List</br>Index of an Item</br>Reversing a List </td>
-      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+    <td align="center"><b>Monday</b></br>14-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1YhMudXHoo/">link</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/10owrFVS5117xG7PoYVFqoaHcD79p6Uxo?usp=drive_link"> link</td>
+        <td align="center">How the input() Function Works</td>
+      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr> 
-     <tr>
+     <!--<tr>
     <td align="center"><b>02</td>
     <td align="center"><b>Tuesday</b></br>09-July-2024</td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/364525473051638">Lists</td>
@@ -272,7 +272,7 @@
 </tbody>
       </table>  
           
-  # Week 05
+  <!--# Week 05
   
 <table>
     <tbody>
