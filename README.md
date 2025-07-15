@@ -1,4 +1,7 @@
-# 5PM Python Crash Course 23th June 2025
+<div align= 'center'>
+<h1> 5PM Python Crash Course 23th June 2025 </h1>
+</div>
+
 ## PythonTeachingVolunteers
 
  **What You'll Find Here:**
@@ -46,7 +49,8 @@
 
 </div>
 
-
+<div align='center'>
+  
 # Week 01
 <table>
     <tbody>
@@ -364,4 +368,5 @@
     <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
         </tr>
 </tbody>
-<table>
+<table>-->
+</div>
