@@ -256,19 +256,15 @@
     <td align="center" ><a href="https://colab.research.google.com/drive/1QaRhG974lFh-_gsn1Vo0hFuiG0RICs1i?usp=sharing">link</td>
         <td align="center"><code>Fizz Buzz</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
-  </tr> 
-    <!--<tr>
-    <td align="center" colspan="6">No Class</td>   
-  </tr>
  <tr>
     <td align="center"><b>03</td>
-    <td align="center"><b>Thursday</b></br>11-July-2024</td>
-    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1484589192419255">Tuples</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1FteH81-8A7WFR0qxtPegXDcVrIr8ZfbE?usp=sharing">Practice File</td>
-        <td align="center">Tuples</td>
-      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+    <td align="center"><b>Thursday</b></br>16-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1Ay4ommG6a/">link</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1W7kx9pPzqreBSv0i8bgB8ovy5atB1UTs?usp=drive_link">link</td>
+        <td align="center"><code>Introducing while Loops</code></td>
+      <td align="center"><a href="https://www.linkedin.com/in/zia-ur-rehman63/">Zia Ur Rehman</td>
   </tr>
-          <tr>
+    <!--      <tr>
     <td align="center" colspan="6">No Class</td>   
   </tr>
   </tbody>
