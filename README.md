@@ -1,5 +1,5 @@
 <div align= 'center'>
-<h1> 5PM Python Crash Course, 23<sup>th</sup> June 2025 </h1>
+<h1> 5PM Python Crash Course, 23<sup>rd</sup> June 2025 </h1>
 </div>
 
 ## PythonTeachingVolunteers
@@ -258,11 +258,22 @@
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
  <tr>
     <td align="center"><b>03</td>
-    <td align="center"><b>Thursday</b></br>16-July-2025</td>
+    <td align="center"><b>Wednesday</b></br>16-July-2025</td>
     <td align="center"><a href="https://www.facebook.com/share/v/1Ay4ommG6a/">link</td>
     <td align="center" ><a href="https://colab.research.google.com/drive/1W7kx9pPzqreBSv0i8bgB8ovy5atB1UTs?usp=drive_link">link</td>
         <td align="center"><code>Introducing while Loops</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/zia-ur-rehman63/">Zia Ur Rehman</td>
+  </tr>
+         <tr>
+    <td align="center"><b>04</td>
+    <td align="center"><b>Thursday</b></br>17-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1ANyHS518W/">link</td>
+      <td align='center'>
+  <a href="https://colab.research.google.com/drive/1CRt411fhWEBFqVuQMSI8LihDQEv7Bocl?usp=drive_link">link</a> -
+  <a href="https://colab.research.google.com/drive/1AzaFHKrYQpebzFaCbRJWnZ-hdPz6myWo?usp=drive_link">link</a> -
+  <a href="https://colab.research.google.com/drive/1jFF9Qn0MBdZxzo_7vSLUfuHKqPJktfb-?usp=drive_link">link</a>
+        <td align="center"><code>while loop with Lists and Dictionaries + Defining Functions + Passing Arguments</code></td>
+      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr>
     <!--      <tr>
     <td align="center" colspan="6">No Class</td>   
