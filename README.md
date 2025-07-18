@@ -275,11 +275,20 @@
         <td align="center"><code>while loop with Lists and Dictionaries + Defining Functions + Passing Arguments</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr>
+
+  <tr>
+    <td align="center"><b>05</td>
+    <td align="center"><b>Friday</b></br>18-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1V1G8vCS2X/">link</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1dE3fyVuq6tE7We42fJqm1fyNvaq5qorD?usp=drive_link">link</td>
+        <td align="center"><code>Return Values</code></td>
+      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
+    </tr>
     <!--      <tr>
     <td align="center" colspan="6">No Class</td>   
-  </tr>
-  </tbody>
-</tbody>
+    </tr>
+    </tbody>
+    </tbody>
       </table>  
           
   <!--# Week 05
