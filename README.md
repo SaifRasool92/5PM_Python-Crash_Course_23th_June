@@ -302,36 +302,7 @@
      <th>Topics</th>
    <td align="center"><b>Trainer Name</b></td>
      </tr>  
-<tr>
-    <td align="center"><b>01</td>
-    <td align="center"><b>Monday</b></br>15-July-2024</td>
-    <td align="center"><a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=816439003923146">Sets</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1gGDTpa0XQ767Te9wG20y9Na0uysZIO1X#scrollTo=dSzGHHpqQL_j">Practice File</td>
-        <td align="center">Sets</br>Create, Access items </br> Add & Remove </br> Union & Intersection Method</td>
-      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
-  </tr>
-     <tr>
-    <td align="center" colspan="6">Class off due to 9th Muharram Holiday</td>   
-  </tr>
-          <tr>
-    <td align="center" colspan="6">Class off due to 10th Muharram Holiday</td>   
-  </tr>
-  <tr>
-    <td align="center"><b>02</td>
-    <td align="center"><b>Thursday</b></br>18-July-2024</td>
-    <td align="center"><a href="https://web.facebook.com/watch/live/?ref=watch_permalink&v=1495253251379730">Sets</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1gGDTpa0XQ767Te9wG20y9Na0uysZIO1X#scrollTo=dSzGHHpqQL_j">Practice File</td>
-        <td align="center">Methods of Sets</br>Practice Question</td>
-      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
-  </tr>
- <tr>
-    <td align="center"><b>03</td>
-    <td align="center"><b>Friday</b></br>19-July-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/448707654656883">Dictionary</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1_pnpXVIF4QwIdF1GLVMJ4xBkJhyCOhIl#scrollTo=PD3WqKg-u3LX">Practice File</td>
-        <td align="center">Dictionary </br> Create a Dictionary</br> Dictionary Length </br>Dictionary with multiple data types</td>
-       <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
-  </tr>
+
 </tbody>
 </tbody>
 <table>
@@ -349,39 +320,7 @@
    <td align="center"><b>Trainer Name</b></td>
      </tr>  
         <tr>
-    <td align="center"><b>01</td>
-    <td align="center"><b>Monday</b></br>22-July-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/858233869559210">Dictionary</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1_pnpXVIF4QwIdF1GLVMJ4xBkJhyCOhIl#scrollTo=PD3WqKg-u3LX">Practice File</td>
-    <td align="center"> Accessing Elements </br> Duplicate Values </br> Add elements </br> Change Value in dictionary</td>
-    <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
-  </tr>  
-    <tr>
-    <td align="center" colspan="6">Class Off</td>   
-  </tr>
-        <tr>
-    <td align="center"><b>02</td>
-    <td align="center"><b>Wednesday</b></br>24-July-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1046021647171297">Dictionary</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1_pnpXVIF4QwIdF1GLVMJ4xBkJhyCOhIl#scrollTo=PD3WqKg-u3LX">Practice File</td>
-    <td align="center"> Membership </br> for loop </br> nested dict </br></td>
-    <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
-  </tr>
-        <tr>
-        <td align="center"><b>03</td>
-    <td align="center"><b>Thursday</b></br>26-July-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/812519170645650">Dictionary</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1_pnpXVIF4QwIdF1GLVMJ4xBkJhyCOhIl#scrollTo=PD3WqKg-u3LX">Practice File</td>
-    <td align="center"> Dict Methods </br> clear() </br> keys() </br> value() </br> items() </br> get()</br></td>
-    <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
-        </tr>
-        <tr>
-        <td align="center"><b>04</td>
-    <td align="center"><b>Friday</b></br>27-July-2024</td>
-    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/786737440199286/">Dictionary & Function </td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1_pnpXVIF4QwIdF1GLVMJ4xBkJhyCOhIl#scrollTo=PD3WqKg-u3LX">Practice File</td>
-    <td align="center"> Dict Methods & function </br></td>
-    <td align="center"><a href="https://www.linkedin.com/in/fatima-arshad-6ba52a184/">Fatima Arshad</td>
+
         </tr>
 </tbody>
 <table>-->
