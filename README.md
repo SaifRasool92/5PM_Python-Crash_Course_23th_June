@@ -1,6 +1,5 @@
-<div align= 'center'>
-<h1> 5PM Python Crash Course, 23<sup>rd</sup> June 2025 </h1>
-</div>
+
+<img width="2560" height="300" alt="Untitled (2560 x 700 px) (2560 x 500 px) (2560 x 300 px)" src="https://github.com/user-attachments/assets/94d40b26-927e-4e17-9234-b2a8210d8f45" />
 
 ## PythonTeachingVolunteers
 
