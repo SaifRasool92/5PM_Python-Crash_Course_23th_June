@@ -283,31 +283,63 @@
         <td align="center"><code>Return Values</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
     </tr>
-    <!--      <tr>
-    <td align="center" colspan="6">No Class</td>   
-    </tr>
-    </tbody>
-    </tbody>
-      </table>  
           
-  <!--# Week 05
-  
+
+# Week 05
 <table>
     <tbody>
      <tr>
       <th colspan="2">Days</th>
       <th>Video Links (Facebook)</br></th>
-      <th>Materials</th>
+      <th>Colab Notebooks</th>
      <th>Topics</th>
    <td align="center"><b>Trainer Name</b></td>
      </tr>  
+  <tr>
+    <td align="center"><b>01</td>
+    <td align="center"><b>Monday</b></br>21-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1YhMudXHoo/">link</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/10owrFVS5117xG7PoYVFqoaHcD79p6Uxo?usp=drive_link"> link</td>
+        <td align="center"><code>How the input() Function Works</code></td>
+      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
+  </tr> 
+     <tr>
+    <td align="center"><b>02</td>
+    <td align="center"><b>Tuesday</b></br>15-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/19j53kxrk7/">link</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1QaRhG974lFh-_gsn1Vo0hFuiG0RICs1i?usp=sharing">link</td>
+        <td align="center"><code>Fizz Buzz</code></td>
+      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
+ <tr>
+    <td align="center"><b>03</td>
+    <td align="center"><b>Wednesday</b></br>16-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1Ay4ommG6a/">link</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1W7kx9pPzqreBSv0i8bgB8ovy5atB1UTs?usp=drive_link">link</td>
+        <td align="center"><code>Introducing while Loops</code></td>
+      <td align="center"><a href="https://www.linkedin.com/in/zia-ur-rehman63/">Zia Ur Rehman</td>
+  </tr>
+         <tr>
+    <td align="center"><b>04</td>
+    <td align="center"><b>Thursday</b></br>17-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1ANyHS518W/">link</td>
+      <td align='center'>
+  <a href="https://colab.research.google.com/drive/1CRt411fhWEBFqVuQMSI8LihDQEv7Bocl?usp=drive_link">link</a> -
+  <a href="https://colab.research.google.com/drive/1AzaFHKrYQpebzFaCbRJWnZ-hdPz6myWo?usp=drive_link">link</a> -
+  <a href="https://colab.research.google.com/drive/1jFF9Qn0MBdZxzo_7vSLUfuHKqPJktfb-?usp=drive_link">link</a>
+        <td align="center"><code>while loop with Lists and Dictionaries + Defining Functions + Passing Arguments</code></td>
+      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
+  </tr>
 
-</tbody>
-</tbody>
-<table>
-
+  <tr>
+    <td align="center"><b>05</td>
+    <td align="center"><b>Friday</b></br>18-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1V1G8vCS2X/">link</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1dE3fyVuq6tE7We42fJqm1fyNvaq5qorD?usp=drive_link">link</td>
+        <td align="center"><code>Return Values</code></td>
+      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
+    </tr>
     
-# Week 06
+<!--# Week 06
    
 <table>
     <tbody>
