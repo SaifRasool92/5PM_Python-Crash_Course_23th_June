@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  <h2>Trainers &amp; Moderators</h2>
+  <h1>⁌  &nbsp; Trainers  &nbsp; ⁍</h1>
 
   <table>
     <tr>
