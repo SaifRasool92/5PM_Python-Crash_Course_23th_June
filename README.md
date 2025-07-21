@@ -283,7 +283,8 @@
         <td align="center"><code>Return Values</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
     </tr>
-          
+   </tbody>
+<table>   
 
 # Week 05
 <table>
@@ -298,12 +299,14 @@
   <tr>
     <td align="center"><b>01</td>
     <td align="center"><b>Monday</b></br>21-July-2025</td>
-    <td align="center"><a href="https://www.facebook.com/share/v/1YhMudXHoo/">link</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/10owrFVS5117xG7PoYVFqoaHcD79p6Uxo?usp=drive_link"> link</td>
-        <td align="center"><code>How the input() Function Works</code></td>
-      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/15qECqgv7M/">link</td>
+    <td align='center'>
+  <a href="https://colab.research.google.com/drive/1TSHDlyg10Nc7yNJHurUcNMLrdMT7BNeu?usp=drive_link">link</a> -
+  <a href="https://colab.research.google.com/drive/1T1CdcFjJkeKiHresys2wLyktDApYiNpw?usp=drive_link">link</a>
+        <td align="center"><code>Passing list to a Function + Passing Orbitrary number of arguments</code></td>
+      <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem</td>
   </tr> 
-     <tr>
+     <!--<tr>
     <td align="center"><b>02</td>
     <td align="center"><b>Tuesday</b></br>15-July-2025</td>
     <td align="center"><a href="https://www.facebook.com/share/v/19j53kxrk7/">link</td>
@@ -337,7 +340,7 @@
     <td align="center" ><a href="https://colab.research.google.com/drive/1dE3fyVuq6tE7We42fJqm1fyNvaq5qorD?usp=drive_link">link</td>
         <td align="center"><code>Return Values</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
-    </tr>
+    </tr>-->
     
 <!--# Week 06
    
