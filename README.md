@@ -306,14 +306,16 @@
         <td align="center"><code>Passing list to a Function + Passing Orbitrary number of arguments</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem</td>
   </tr> 
-     <!--<tr>
+     <tr>
     <td align="center"><b>02</td>
-    <td align="center"><b>Tuesday</b></br>15-July-2025</td>
-    <td align="center"><a href="https://www.facebook.com/share/v/19j53kxrk7/">link</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1QaRhG974lFh-_gsn1Vo0hFuiG0RICs1i?usp=sharing">link</td>
-        <td align="center"><code>Fizz Buzz</code></td>
+    <td align="center"><b>Tuesday</b></br>22-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/16sATd17iW/">link</td>
+        <td align='center'>
+  <a href="https://colab.research.google.com/drive/1vd14iSfE6-38xR-R68ZhLE4ddaoyX8Ob?usp=drive_link">link</a> -
+  <a href="https://colab.research.google.com/drive/1bJDBrBZCKxzT9SF1tfBunwh9Lm_TPeeg?usp=drive_link">link</a>
+        <td align="center"><code>Storing Your Functions in Modules + Styling Functions</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
- <tr>
+ <!--<tr>
     <td align="center"><b>03</td>
     <td align="center"><b>Wednesday</b></br>16-July-2025</td>
     <td align="center"><a href="https://www.facebook.com/share/v/1Ay4ommG6a/">link</td>
