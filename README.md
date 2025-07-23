@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  <h1>⁌  &nbsp; Trainers  &nbsp; ⁍</h1>
+  <h1><u>Trainers</u></h1>
 
   <table>
     <tr>
@@ -315,15 +315,15 @@
   <a href="https://colab.research.google.com/drive/1bJDBrBZCKxzT9SF1tfBunwh9Lm_TPeeg?usp=drive_link">link</a>
         <td align="center"><code>Storing Your Functions in Modules + Styling Functions</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
- <!--<tr>
+ <tr>
     <td align="center"><b>03</td>
-    <td align="center"><b>Wednesday</b></br>16-July-2025</td>
-    <td align="center"><a href="https://www.facebook.com/share/v/1Ay4ommG6a/">link</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1W7kx9pPzqreBSv0i8bgB8ovy5atB1UTs?usp=drive_link">link</td>
-        <td align="center"><code>Introducing while Loops</code></td>
-      <td align="center"><a href="https://www.linkedin.com/in/zia-ur-rehman63/">Zia Ur Rehman</td>
+    <td align="center"><b>Wednesday</b></br>23-July-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1DyfR7rhzj/">link</td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1QguzoBZW69m4Yj0fmPThKPqolDRRI_-N?usp=sharing">link</td>
+        <td align="center"><code>Creating and Using a Class</code></td>
+      <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem</td>
   </tr>
-         <tr>
+        <!-- <tr>
     <td align="center"><b>04</td>
     <td align="center"><b>Thursday</b></br>17-July-2025</td>
     <td align="center"><a href="https://www.facebook.com/share/v/1ANyHS518W/">link</td>
@@ -335,29 +335,29 @@
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
   </tr>
 
-  <tr>
+    <tr>
     <td align="center"><b>05</td>
     <td align="center"><b>Friday</b></br>18-July-2025</td>
     <td align="center"><a href="https://www.facebook.com/share/v/1V1G8vCS2X/">link</td>
     <td align="center" ><a href="https://colab.research.google.com/drive/1dE3fyVuq6tE7We42fJqm1fyNvaq5qorD?usp=drive_link">link</td>
         <td align="center"><code>Return Values</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
-    </tr>-->
+    </tr>
     
-<!--# Week 06
+    # Week 06
    
-<table>
+    <table>
     <tbody>
      <tr>
       <th colspan="2">Days</th>
       <th>Video Links (Facebook)</br></th>
       <th>Materials</th>
      <th>Topics</th>
-   <td align="center"><b>Trainer Name</b></td>
+     <td align="center"><b>Trainer Name</b></td>
      </tr>  
         <tr>
 
         </tr>
-</tbody>
-<table>-->
-</div>
+    </tbody>
+    </table>
+    </div>-->
