@@ -286,78 +286,77 @@
    </tbody>
 <table>   
 
-# Week 05
+<h2>Week 05</h2>
 <table>
-    <tbody>
-     <tr>
-      <th colspan="2">Days</th>
-      <th>Video Links (Facebook)</br></th>
-      <th>Colab Notebooks</th>
-     <th>Topics</th>
-   <td align="center"><b>Trainer Name</b></td>
-     </tr>  
-  <tr>
-    <td align="center"><b>01</td>
-    <td align="center"><b>Monday</b></br>21-July-2025</td>
-    <td align="center"><a href="https://www.facebook.com/share/v/15qECqgv7M/">link</td>
-    <td align='center'>
-  <a href="https://colab.research.google.com/drive/1TSHDlyg10Nc7yNJHurUcNMLrdMT7BNeu?usp=drive_link">link</a> -
-  <a href="https://colab.research.google.com/drive/1T1CdcFjJkeKiHresys2wLyktDApYiNpw?usp=drive_link">link</a>
-        <td align="center"><code>Passing list to a Function + Passing Orbitrary number of arguments</code></td>
-      <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem</td>
-  </tr> 
-     <tr>
-    <td align="center"><b>02</td>
-    <td align="center"><b>Tuesday</b></br>22-July-2025</td>
-    <td align="center"><a href="https://www.facebook.com/share/v/16sATd17iW/">link</td>
-        <td align='center'>
-  <a href="https://colab.research.google.com/drive/1vd14iSfE6-38xR-R68ZhLE4ddaoyX8Ob?usp=drive_link">link</a> -
-  <a href="https://colab.research.google.com/drive/1bJDBrBZCKxzT9SF1tfBunwh9Lm_TPeeg?usp=drive_link">link</a>
-        <td align="center"><code>Storing Your Functions in Modules + Styling Functions</code></td>
-      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
- <tr>
-    <td align="center"><b>03</td>
-    <td align="center"><b>Wednesday</b></br>23-July-2025</td>
-    <td align="center"><a href="https://www.facebook.com/share/v/1DyfR7rhzj/">link</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1QguzoBZW69m4Yj0fmPThKPqolDRRI_-N?usp=sharing">link</td>
-        <td align="center"><code>Creating and Using a Class</code></td>
-      <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem</td>
-  </tr>
-        <!-- <tr>
-    <td align="center"><b>04</td>
-    <td align="center"><b>Thursday</b></br>17-July-2025</td>
-    <td align="center"><a href="https://www.facebook.com/share/v/1ANyHS518W/">link</td>
-      <td align='center'>
-  <a href="https://colab.research.google.com/drive/1CRt411fhWEBFqVuQMSI8LihDQEv7Bocl?usp=drive_link">link</a> -
-  <a href="https://colab.research.google.com/drive/1AzaFHKrYQpebzFaCbRJWnZ-hdPz6myWo?usp=drive_link">link</a> -
-  <a href="https://colab.research.google.com/drive/1jFF9Qn0MBdZxzo_7vSLUfuHKqPJktfb-?usp=drive_link">link</a>
-        <td align="center"><code>while loop with Lists and Dictionaries + Defining Functions + Passing Arguments</code></td>
-      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
-  </tr>
-
+  <thead>
     <tr>
-    <td align="center"><b>05</td>
-    <td align="center"><b>Friday</b></br>18-July-2025</td>
-    <td align="center"><a href="https://www.facebook.com/share/v/1V1G8vCS2X/">link</td>
-    <td align="center" ><a href="https://colab.research.google.com/drive/1dE3fyVuq6tE7We42fJqm1fyNvaq5qorD?usp=drive_link">link</td>
-        <td align="center"><code>Return Values</code></td>
-      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
-    </tr>
-    
-    # Week 06
-   
-    <table>
-    <tbody>
-     <tr>
       <th colspan="2">Days</th>
-      <th>Video Links (Facebook)</br></th>
-      <th>Materials</th>
-     <th>Topics</th>
-     <td align="center"><b>Trainer Name</b></td>
-     </tr>  
-        <tr>
+      <th>Video Links (Facebook)</th>
+      <th>Colab Notebooks</th>
+      <th>Topics</th>
+      <th>Trainer Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>01</b></td>
+      <td align="center"><b>Monday</b><br>21-July-2025</td>
+      <td align="center">
+        <a href="https://www.facebook.com/share/v/15qECqgv7M/">link</a>
+      </td>
+      <td align="center">
+        <a href="https://colab.research.google.com/drive/1TSHDlyg10Nc7yNJHurUcNMLrdMT7BNeu?usp=drive_link">link</a> -
+        <a href="https://colab.research.google.com/drive/1T1CdcFjJkeKiHresys2wLyktDApYiNpw?usp=drive_link">link</a>
+      </td>
+      <td align="center"><code>Passing list to a Function + Passing Arbitrary number of arguments</code></td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>02</b></td>
+      <td align="center"><b>Tuesday</b><br>22-July-2025</td>
+      <td align="center">
+        <a href="https://www.facebook.com/share/v/16sATd17iW/">link</a>
+      </td>
+      <td align="center">
+        <a href="https://colab.research.google.com/drive/1vd14iSfE6-38xR-R68ZhLE4ddaoyX8Ob?usp=drive_link">link</a> -
+        <a href="https://colab.research.google.com/drive/1bJDBrBZCKxzT9SF1tfBunwh9Lm_TPeeg?usp=drive_link">link</a>
+      </td>
+      <td align="center"><code>Storing Your Functions in Modules + Styling Functions</code></td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>03</b></td>
+      <td align="center"><b>Wednesday</b><br>23-July-2025</td>
+      <td align="center">
+        <a href="https://www.facebook.com/share/v/1DyfR7rhzj/">link</a>
+      </td>
+      <td align="center">
+        <a href="https://colab.research.google.com/drive/1QguzoBZW69m4Yj0fmPThKPqolDRRI_-N?usp=sharing">link</a>
+      </td>
+      <td align="center"><code>Creating and Using a Class (1)</code></td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>04</b></td>
+      <td align="center"><b>Thursday</b><br>24-July-2025</td>
+      <td align="center">
+        <a href="https://www.facebook.com/share/v/1EJXH71WZW/">link</a>
+      </td>
+      <td align="center">
+        <a href="https://colab.research.google.com/drive/1QguzoBZW69m4Yj0fmPThKPqolDRRI_-N?usp=sharing">link</a>
+      </td>
+      <td align="center"><code>Creating and Using a Class (2)</code></td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-        </tr>
-    </tbody>
-    </table>
-    </div>-->
+
