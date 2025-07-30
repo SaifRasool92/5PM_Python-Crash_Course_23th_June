@@ -409,21 +409,21 @@
         <a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</a>
       </td>
     </tr>
-    <!--<tr>
+    <<tr>
       <td align="center"><b>03</b></td>
-      <td align="center"><b>Wednesday</b><br>23-July-2025</td>
+      <td align="center"><b>Wednesday</b><br>30-July-2025</td>
       <td align="center">
-        <a href="https://www.facebook.com/share/v/1DyfR7rhzj/">link</a>
+        <a href="https://www.facebook.com/share/v/1AmtQWu1T3/">link</a>
       </td>
       <td align="center">
-        <a href="https://colab.research.google.com/drive/1QguzoBZW69m4Yj0fmPThKPqolDRRI_-N?usp=sharing">link</a>
+        <a href="https://colab.research.google.com/drive/1_tUIyWVK91DPn0DOTHMB_mJmw-h3psy-?usp=drive_link">link</a>
       </td>
-      <td align="center"><code>Creating and Using a Class (1)</code></td>
+      <td align="center"><code>Inheritance (Revise)</code></td>
       <td align="center">
-        <a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem</a>
+        <a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</a>
       </td>
     </tr>
-    <tr>
+    <!--<tr>
       <td align="center"><b>04</b></td>
       <td align="center"><b>Thursday</b><br>24-July-2025</td>
       <td align="center">
