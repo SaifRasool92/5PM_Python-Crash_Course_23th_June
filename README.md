@@ -409,7 +409,7 @@
         <a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</a>
       </td>
     </tr>
-    <<tr>
+    <tr>
       <td align="center"><b>03</b></td>
       <td align="center"><b>Wednesday</b><br>30-July-2025</td>
       <td align="center">
@@ -445,6 +445,6 @@
       <td align='center'><a href="https://colab.research.google.com/drive/1gnloUZlbfDeBQNX3SloyixYdx3AMzIok?usp=sharing">link</td>
         <td align="center"><code>Working with Classes and Instances</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
-    </tr>
-    </tbody>
-    </table>-->
+    </tr>-->
+  </tbody>
+    </table>
