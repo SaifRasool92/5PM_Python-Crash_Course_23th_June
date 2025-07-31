@@ -423,22 +423,22 @@
         <a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</a>
       </td>
     </tr>
-    <!--<tr>
+    <tr>
       <td align="center"><b>04</b></td>
-      <td align="center"><b>Thursday</b><br>24-July-2025</td>
+      <td align="center"><b>Thursday</b><br>31-July-2025</td>
       <td align="center">
-        <a href="https://www.facebook.com/share/v/1EJXH71WZW/">link</a>
+        <a href="https://www.facebook.com/share/v/16v1qnYkNK/">link</a>
       </td>
       <td align="center">
-        <a href="https://colab.research.google.com/drive/1QguzoBZW69m4Yj0fmPThKPqolDRRI_-N?usp=sharing">link</a>
+        <a href="https://colab.research.google.com/drive/18yNDF5HYRC5AwrFdSgustsNcmQdrCFxr?usp=drive_link">link</a>
       </td>
-      <td align="center"><code>Creating and Using a Class (2)</code></td>
+      <td align="center"><code>Reading from a File</code></td>
       <td align="center">
-        <a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</a>
+        <a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem</a>
       </td>
     </tr>
 
-    <tr>
+    <!--<tr>
     <td align="center"><b>05</td>
     <td align="center"><b>Friday</b></br>25-July-2025</td>
     <td align="center"><a href="https://www.facebook.com/share/v/14KffLLhi1r/">link</td>
