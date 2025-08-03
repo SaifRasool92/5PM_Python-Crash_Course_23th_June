@@ -438,13 +438,13 @@
       </td>
     </tr>
 
-  <!--<tr>
+  <tr>
     <td align="center"><b>05</td>
-    <td align="center"><b>Friday</b></br>25-July-2025</td>
-    <td align="center"><a href="https://www.facebook.com/share/v/14KffLLhi1r/">link</td>
+    <td align="center"><b>Friday</b></br>1-August-2025</td>
+    <td align="center"><a href="https://www.facebook.com/share/v/1B1okncmk8/">link</td>
       <td align='center'><a href="https://colab.research.google.com/drive/1gnloUZlbfDeBQNX3SloyixYdx3AMzIok?usp=sharing">link</td>
-        <td align="center"><code>Working with Classes and Instances</code></td>
-      <td align="center"><a href="https://www.linkedin.com/in/saif-ur-rasool/">Saif Ur Rasool</td>
-    </tr>-->
+        <td align="center"><code>Intro to advance topics</code></td>
+      <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem</td>
+    </tr>
   </tbody>
     </table>
