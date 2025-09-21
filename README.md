@@ -12,7 +12,7 @@
 
 **Comprehensive Materials:** Get access to all the colab notebooks [repo](https://github.com/SaifRasool92/Python-Crash-Course) you need, including assignments, class practice exercises, **[Course Outline](https://docs.google.com/document/d/1C14SaQ1mW_KqTC4C_K64R27BrMwt_l7b66oMWoKEEmM/edit?usp=sharing)** and **[Course Excel Sheet](https://docs.google.com/spreadsheets/d/1Mv2Wjwr-LaH55ky8pvd0A3S5Q7YOmKL46itzfusSKsI/edit?usp=sharing)**.
 
-**Join Our Community:** Join our community on **[iCodeGuru](www.icode.guru/join)** to connect with fellow learners and volunteer mentors.
+**Join Our Community:** Join our community on **[iCodeGuru](https://icode.guru/)** to connect with fellow learners and volunteer mentors.
 
 <div align="center">
 
