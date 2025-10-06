@@ -1,7 +1,4 @@
-<!--<a href='https://www.linkedin.com/in/saif-ur-rasool/'>
-<img width="100%" alt="Untitled (2560 x 700 px) (2560 x 500 px) (2560 x 300 px)" src="https://github.com/user-attachments/assets/36e6b5c7-0023-4c7e-a29c-c5abb67cf673" />
-</a>
--->
+
 ## PythonTeachingVolunteers
 
  **What You'll Find Here:**
