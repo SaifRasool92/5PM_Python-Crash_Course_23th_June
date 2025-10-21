@@ -1,5 +1,6 @@
 
 <img width="3229" height="154" alt="Cool Text - Python Crash Course - 23rd June 2025 494374173123269" src="https://github.com/user-attachments/assets/ed31d01c-3d79-41aa-8975-2f54832c9274" />
+<!--![](https://github.com/user-attachments/assets/d90430cb-f295-4424-bafd-5bd7d37aba42)-->
 
 <hr>
 <!--
