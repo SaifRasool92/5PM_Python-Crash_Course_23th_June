@@ -1,7 +1,13 @@
 
-## PythonTeachingVolunteers
+<img width="3229" height="154" alt="Cool Text - Python Crash Course - 23rd June 2025 494374173123269" src="https://github.com/user-attachments/assets/ed31d01c-3d79-41aa-8975-2f54832c9274" />
 
- **What You'll Find Here:**
+
+<!--
+<div align='center'>
+  <h1>𝗣𝘆𝘁𝗵𝗼𝗻 𝗖𝗿𝗮𝘀𝗵 𝗖𝗼𝘂𝗿𝘀𝗲 - 𝟐𝟑<sub>𝐫𝐝</sub> 𝐉𝐮𝐧𝐞 𝟐𝟎𝟐𝟓</h1>
+</div>-->
+
+### **What You'll Find Here:**
 
 **Slides:** Presentation slides designed for use in teaching <code>Python</code> sessions.
 
