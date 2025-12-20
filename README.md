@@ -447,7 +447,9 @@
     <td align="center"><b>05</td>
     <td align="center"><b>Friday</b></br>1-August-2025</td>
     <td align="center"><a href="https://www.facebook.com/share/v/1B1okncmk8/">link</td>
-      <td align='center'>----</td>
+    <td align="center">
+        <a href="https://colab.research.google.com/drive/1TZJrqjCF_O9SC5nni7duni2qfgzLjr8L?usp=sharing">link</a>
+      </td>
         <td align="center"><code>Intro to advance topics</code></td>
       <td align="center"><a href="https://www.linkedin.com/in/muhammad-azeem-azam-9a2663215/">Muhammad Azeem</td>
     </tr>
